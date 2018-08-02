@@ -49,9 +49,11 @@
 
 - 所有作业以DDL之前的最终版本为准
 
+- 作业命名方式，详见下方的图片说明，比如第一组（组名叫做champion）第一次提交challenge1的作业，那么在名字一栏需要填上01-champion，并将提交的文件名命名为challenge1-v1.zip或者是challenge1-v1.pdf。
+
 - 作业提交地址：亿方云：[https://](https://v2.fangcloud.com/collection/5a86b4ad8f5ceb0867ba8560e8ece3eb)[v2.fangcloud.com/collection/5a86b4ad8f5ceb0867ba8560e8ece3eb](https://v2.fangcloud.com/collection/5a86b4ad8f5ceb0867ba8560e8ece3eb) 
 
-  ![](http://o6vut8vrh.bkt.clouddn.com/18-7-27/6980080.jpg)
+  ![](http://o6vut8vrh.bkt.clouddn.com/18-8-2/82885824.jpg)
 
 - 如有其它疑问或者需要延迟提交，请告知助教。
 
